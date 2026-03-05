@@ -27,5 +27,5 @@ with torch.no_grad():
 
 # Save submission
 submission = pd.DataFrame({"id": all_ids, "y_pred": all_preds})
-submission.to_csv("submissions/sample_submission/predictions.csv", index=False)
+submission.to_csv("submissions/inbox/sanae/run_01/predictions.csv", index=False)
 print("Submission saved!")
