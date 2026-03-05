@@ -79,7 +79,7 @@ if __name__ == "__main__":
     import sys, json
     
     # Example usage
-    submission_file = "submissions/inbox/example_team/example_run/predictions.csv"
+    submission_file = "submissions/inbox/sanae/run_01/predictions.csv"
     ground_truth_file = "data/test_labels.csv"  # True labels for test set created in the workflow by decoding secret csv
     
     if len(sys.argv) > 1:
