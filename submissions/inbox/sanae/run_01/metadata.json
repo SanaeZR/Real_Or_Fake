@@ -1,0 +1,7 @@
+{
+  "team": "Sanae",
+  "run_id": "run_01",
+  "type": "human",
+  "model": "SAGEConv",
+  "notes": "Additional notes"
+}
