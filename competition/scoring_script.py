@@ -96,4 +96,4 @@ if __name__ == "__main__":
         print(f"❌ Submission file not found: {submission_file}")
         print(f"\nUsage: python scoring_script.py <submission_file.csv> [ground_truth_file.csv]")
         print(f"\nExample:")
-        print(f"  python scoring_script.py submissions/inbox/my_team/run_001/predictions.csv")
+        print(f"  python scoring_script.py submissions/inbox/sanae/run_01/predictions.csv")
